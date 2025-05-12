@@ -44,7 +44,7 @@ Se puede actualizar un producto ingresando el nombre, si el producto existe en e
 
 Se podrán eliminar los productos ingresando el nombre, si el producto no está en el inventario, mostrará un error y volverá al menú principal, en caso de si estar pero la cantidad que queda de este producto es mayor a 0 entonces este no se podrá eliminar pues es necesario que este producto ya no esté disponible para que sea eliminado, de lo contrario, se eliminará satisfactoriamente.
 
-![imagen](https://github.com/user-attachments/assets/ee91dfcb-bb6b-4022-9557-4fc8a89226d7) ![imagen](https://github.com/user-attachments/assets/78f060ce-52ac-48be-bf75-0bc2d81cbed8)
+![imagen](https://github.com/user-attachments/assets/ee91dfcb-bb6b-4022-9557-4fc8a89226d7)![imagen](https://github.com/user-attachments/assets/78f060ce-52ac-48be-bf75-0bc2d81cbed8)
 
 
 - `Funcionalidad 5: Calcular el valor total`:
@@ -57,5 +57,5 @@ Esta funcionalidad mostrará en pantalla el valor total del inventario (la sumat
 
 Esta es la única manera de salir del sistema, si selecciona otra opción o ingresa una opción invalida simplemente le seguirá mostrando el menú una y otra vez.
 
-![imagen](https://github.com/user-attachments/assets/50072875-d87b-4dc5-86e5-a74c9917f137) ![imagen](https://github.com/user-attachments/assets/7eac3704-8ece-4496-bf7f-76b419239314)
+![imagen](https://github.com/user-attachments/assets/50072875-d87b-4dc5-86e5-a74c9917f137)![imagen](https://github.com/user-attachments/assets/7eac3704-8ece-4496-bf7f-76b419239314)
 
