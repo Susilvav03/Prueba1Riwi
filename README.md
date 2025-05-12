@@ -2,12 +2,24 @@
 
 ## 📁 Acceso y ejecución del proyecto
 
-1. Descargamos el archivo `.py`.
-2. Abrimos la terminal del computador.
+1. Descarga Python [aquí](https://www.python.org/downloads/).
+
+Da click en el sistema operativo de tu computador y descarga el _Latest release_, luego simplemente sigue el paso a paso del descargable.
+
+![imagen](https://github.com/user-attachments/assets/d037aaff-2adb-42f1-a512-a118adf4a04a)
+![imagen](https://github.com/user-attachments/assets/5c802e84-cee0-4a81-81ed-725cc447a58c)
+
+2. Descargamos el archivo `.py`.
+
+![imagen](https://github.com/user-attachments/assets/9def2f5c-4b6b-4807-91c4-94fa3a9c1ad3)![imagen](https://github.com/user-attachments/assets/2cd09504-db58-4c61-a223-0f3944139117)
+
+
+
+3. Abrimos la terminal del computador.
 
 ![imagen](https://github.com/user-attachments/assets/8d36087b-131e-4bc6-a256-1edd8274637e)
 
-3. Búscamos la carpeta en la que descargamos el archivo `.py`.
+4. Búscamos la carpeta en la que descargamos el archivo `.py`.
 - Usa `ls` para visualizar los archivos y carpetas que se encuentran donde estas situado.
 - Usa `cd` para ingresar a la carpeta que necesites.
 
@@ -15,7 +27,7 @@ En este caso está dentro de la carpeta Prueba, que está dentro de la carpeta S
 
 ![imagen](https://github.com/user-attachments/assets/9be747a3-3a58-4b47-995a-fef941f356d2)
 
-4. Luego ejecutamos el proyecto usando `python3` y el nombre del ejecutable, como se muestra a continuación:
+5. Luego ejecutamos el proyecto usando `python3` y el nombre del ejecutable, como se muestra a continuación:
 
 ![imagen](https://github.com/user-attachments/assets/4af8fa98-8a12-464e-ab33-5a744a443752)
 
