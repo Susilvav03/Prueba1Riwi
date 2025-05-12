@@ -71,3 +71,5 @@ Esta es la única manera de salir del sistema, si selecciona otra opción o ingr
 
 ![imagen](https://github.com/user-attachments/assets/50072875-d87b-4dc5-86e5-a74c9917f137)![imagen](https://github.com/user-attachments/assets/7eac3704-8ece-4496-bf7f-76b419239314)
 
+
+https://github.com/Susilvav03/Prueba1Riwi/tree/main
